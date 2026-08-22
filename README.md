@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
