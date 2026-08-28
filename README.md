@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
