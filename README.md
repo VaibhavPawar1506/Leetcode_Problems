@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
