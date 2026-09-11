@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/1929-concatenation-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3903-smallest-stable-index-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0202-happy-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
