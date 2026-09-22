@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/1929-concatenation-of-array) |
