@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3871-count-commas-in-range-ii](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0268-missing-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Floyd's Cycle Finding Algorithm
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VaibhavPawar1506/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
